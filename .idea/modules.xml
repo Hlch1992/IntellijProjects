@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Strategy/Chapter10/Chapter10.iml" filepath="$PROJECT_DIR$/Strategy/Chapter10/Chapter10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strategy/Chapter11/Chapter11.iml" filepath="$PROJECT_DIR$/Strategy/Chapter11/Chapter11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strategy/Chapter12/Chapter12.iml" filepath="$PROJECT_DIR$/Strategy/Chapter12/Chapter12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strategy/Chapter13/Chapter13.iml" filepath="$PROJECT_DIR$/Strategy/Chapter13/Chapter13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strategy/Chapter14/Chapter14.iml" filepath="$PROJECT_DIR$/Strategy/Chapter14/Chapter14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strategy/Chapter15/Chapter15.iml" filepath="$PROJECT_DIR$/Strategy/Chapter15/Chapter15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strategy/Chapter16/Chapter16.iml" filepath="$PROJECT_DIR$/Strategy/Chapter16/Chapter16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strategy/Chapter17/Chapter17.iml" filepath="$PROJECT_DIR$/Strategy/Chapter17/Chapter17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strategy/Chapter18/Chapter18.iml" filepath="$PROJECT_DIR$/Strategy/Chapter18/Chapter18.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strategy/Chapter19/Chapter19.iml" filepath="$PROJECT_DIR$/Strategy/Chapter19/Chapter19.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strategy/Chapter2/Chapter2.iml" filepath="$PROJECT_DIR$/Strategy/Chapter2/Chapter2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strategy/Chapter20/Chapter20.iml" filepath="$PROJECT_DIR$/Strategy/Chapter20/Chapter20.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strategy/Chapter21/Chapter21.iml" filepath="$PROJECT_DIR$/Strategy/Chapter21/Chapter21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strategy/Chapter22/Chapter22.iml" filepath="$PROJECT_DIR$/Strategy/Chapter22/Chapter22.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strategy/Chapter3/Chapter3.iml" filepath="$PROJECT_DIR$/Strategy/Chapter3/Chapter3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strategy/Chapter4/Chapter4.iml" filepath="$PROJECT_DIR$/Strategy/Chapter4/Chapter4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strategy/Chapter5/Chapter5.iml" filepath="$PROJECT_DIR$/Strategy/Chapter5/Chapter5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strategy/Chapter6/Chapter6.iml" filepath="$PROJECT_DIR$/Strategy/Chapter6/Chapter6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strategy/Chapter7/Chapter7.iml" filepath="$PROJECT_DIR$/Strategy/Chapter7/Chapter7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strategy/Chapter8/Chapter8.iml" filepath="$PROJECT_DIR$/Strategy/Chapter8/Chapter8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strategy/Chapterre9/Chapterre9.iml" filepath="$PROJECT_DIR$/Strategy/Chapterre9/Chapterre9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strategy/FirstIO/FirstIO.iml" filepath="$PROJECT_DIR$/Strategy/FirstIO/FirstIO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strategy/FirstIOTest/FirstIOTest.iml" filepath="$PROJECT_DIR$/Strategy/FirstIOTest/FirstIOTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strategy/Welcome/Welcome.iml" filepath="$PROJECT_DIR$/Strategy/Welcome/Welcome.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,6 @@
+﻿nbproject/
+dist/
+build/
+*.class
+target/classes/
+target/generated-sources/

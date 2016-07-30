@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="FirstIOTest">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Strategy/FirstIOTest/dist/FirstIOTest.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

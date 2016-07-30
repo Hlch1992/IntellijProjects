@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Chapter2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Strategy/Chapter2/dist/Chapter2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
